@@ -1,0 +1,20 @@
+The data attribute are:
+1. ID
+2. No. of Patient, 
+3. Gender
+4. Age
+5. Urea
+6. Creatinine ratio(Cr)
+7. HBA1C (Hemoglobin A1C)
+8. Chol (Cholesterol)
+9. Triglycerides (TG)
+10. HDL Cholesterol
+11. LDL Cholesterol  
+12. VLDL Cholesterol 
+13. BMI
+14. CLASS (Yes/No/Predicted)
+
+
+The dataset is taken from "https://data.mendeley.com/" and the data contains over 1000 data covering three classes (Diabetic, Non-Diabetic, and Predicted-Diabetic).
+
+Dataset Link: https://data.mendeley.com/datasets/wj9rwkp9c2/1
