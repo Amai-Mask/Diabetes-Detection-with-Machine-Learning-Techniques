@@ -69,9 +69,13 @@ The dataset consists of medical features that can be used to predict the stage o
 ## Screenshots 📸
 
 <div align="center">
-  <img src="images/model_visualization.png" alt="Model Visualization" width="500"/>
-  <img src="images/diabetes_prediction_output.png" alt="Diabetes Prediction Output" width="500"/>
-</div>
+  <img src="Images/random.png" alt="Random" width="800"/>
+  </div>
+  <div align="center">
+ <img src="Images/10fold.png" alt="10Fold" width="800"/> 
+  </div>
+ 
+
 
 ---
 
