@@ -72,7 +72,7 @@ The dataset consists of medical features that can be used to predict the stage o
   <img src="Images/random.png" alt="Random" width="800"/>
   </div>
   <div align="center">
- <img src="Images/10fold.png" alt="10Fold" width="800"/> 
+ <img src="Images/fold.png" alt="10Fold" width="800"/> 
   </div>
  
 
